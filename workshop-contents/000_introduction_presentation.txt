@@ -1,0 +1,41 @@
+This course is free and except that is limited to one hour a day, as long as I'm able to talk and thinking, I'll do my best to be available to anyone than I can learn something. on the other hand, I have an obligation to my company to perform all their duties that I performed so far, so that you asked that all questions sachuvate for periods when they take me on a break or before and after the workshop.
+
+here are welcome all who want to learn to program, but also all those who already know how to program.
+
+that would've learned to program, you need to know to program. luckily, you know that already, only you are not aware of, and I'll Pokushat to otkljucham vashe already existing knowledge and that you nauchen to razmishljate themselves in a way that will give you programming olakshati while Uchitel or doing.
+there is no curriculum, because I know from experience that this system of teaching and learning does not work very well.
+deliberately I will not prepare for these lectures, because programming is not a perfect process and as such can be learned only if you can see the errors that can be encountered.
+all the planning and organization of the project will work on the course, that all may to look at the big picture aka the big picture.
+it takes a lot of patience and will, but if you are fascinated by technology, as I am, I am sure you will succeed.
+
+although the basic Python, will work all programming languages, and those who know and those who do not know, because programming is not the way in which the code writes, but in the way of thinking.
+I shall try to tell you my way of thinking and my programming experience, but it is also good to hear all the other experiences and to take up a discussion about whether something can be done better and how.
+
+during this course you will learn how to use Linux, Git, GitHub, BitBucket, test driven development, Continual improvement processes, web based API use and creation and many other important elements in the work of programmer.
+
+people who really enjoy this job, will have the option of probation period, after which it can get and permanent employment
+
+-------------------------------------------------- --------
+presentation
+  - I was born on the planet earth and here I spent all my life
+  - Priche Serbian, English, Italian, python, java, c, c ++, c #, javascript, html, css, spacebars, django, meteor, yaml, shell etc.
+
+rules, protocols, consistency
+  - that would allow everyone to follow the course without problems, drink and cigarettes you can consume in the kitchen
+  - sushtini programming is based on the context information with which to manipulishe, so that the precise protocols are necessary, but also friends and each programmer
+  - consistency aka consistency in English is also very important item, shto nach that each process must have a recognizable pattern.
+  - in every serious company working environment is part of the obligation of each employee, so that we will have a working environment that will all have to use, no exceptions
+    - Linux OS precisely Xubuntu 4.16
+    - Git Github for Source Version Control
+    - Eclipse and Atom as the main editors
+    - Python 3.5 as the basic programming language
+    - Django as a web framework
+    - CircleCI for continuous improvement platform
+    - Vultr for cloud servers
+    - Slack communication
+    - everything else u are necessary
+
+the spirit of open source
+  - This course is held in the spirit of open source software, shto Nachi that is completely free. my position is that all knowledge should be free and my goal is to tell you all I know u are and that shows how much a vital factor in the future of civilization nashe
+
+explain the importance of emails and mailing list
